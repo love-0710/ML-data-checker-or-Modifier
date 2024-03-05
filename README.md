@@ -18,7 +18,6 @@ In the realm of machine learning, ensuring the quality and integrity of the data
 - [Checking dataset Cointain ROI or not](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/dataset_roi_check.ipynb) : Script for checking if the dataset contains regions of interest (ROIs) or not.
 - [Checking the data is accessible or not] Script for verifying the accessibility of the data.
 
-dataset_roi_check.ipynb
 
 
 ## Usage
