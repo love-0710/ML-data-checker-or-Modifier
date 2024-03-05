@@ -15,6 +15,8 @@ In the realm of machine learning, ensuring the quality and integrity of the data
 
 ## List of Code Files
 
+- [MFCC-Abstraction-along_with-Metadata_&_captions-Extraction](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/MFCC-Abstraction-and-Metadata-Extraction.py) : This repository contains code that abstracts Mel-Frequency Cepstral Coefficients (MFCC) from audio files and extracts metadata and captions from CSV files. The extracted MFCC data is then saved along with their corresponding captions and metadata into a JSON format. This codebase is useful for Task 6 of the DCASE (Detection and Classification of Acoustic Scenes and Events) challenge, providing a solution for processing audio data and associated metadata efficiently.
+  
 - [Checking dataset Cointain ROI or not](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/dataset_roi_check.ipynb) : Script for checking if the dataset contains regions of interest (ROIs) or not.
 
 - [Convert Keras Model to TensorFlow Lite](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/convert_keras_model_to_tflite.py): Convert a pre-trained Keras model to TensorFlow Lite format, which is suitable for deployment on resource-constrained devices such as mobile phones, IoT devices, and edge devices.
