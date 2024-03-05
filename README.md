@@ -25,7 +25,7 @@ In the realm of machine learning, ensuring the quality and integrity of the data
 
 - [Checking the overall quality of saved model](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/checking_overall_quality_of_saved_model.py) : Script for checking the quality of the model.
 
-
+- [Split Dataset into Train, Test, and Validation](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/spliting_dataset.py) : This code snippet demonstrates how to split a dataset into training, testing, and validation sets. It loads a dataset and divides it into specified proportions for training, testing, and validation. The resulting splits are then saved or used for further processing.
 
 ## Usage
 
@@ -37,7 +37,7 @@ To use the scripts and tools provided in this repository, follow these steps:
 
 ## Navigate to the repository directory:
 
-    cd ML-Data-Checker
+    cd ML-data-checker-or-Modifier
 
 - Explore the various directories and files to find the code snippets or utilities that suit your needs.
 
