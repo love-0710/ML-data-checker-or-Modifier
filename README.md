@@ -27,13 +27,16 @@ In the realm of machine learning, ensuring the quality and integrity of the data
 
 - [Split Dataset into Train, Test, and Validation](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/spliting_dataset.py) : This code snippet demonstrates how to split a dataset into training, testing, and validation sets. It loads a dataset and divides it into specified proportions for training, testing, and validation. The resulting splits are then saved or used for further processing.
 
+- [Rename Files in Dataset](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/rename.py) : This code snippet demonstrates how to rename files within a dataset by adding prefixes based on folder names. It iterates through the directories of a dataset, generates unique filenames with prefixes, and renames the files accordingly. This can be useful for organizing and labeling files within a dataset.
+- [Agmentation-ImageDataGenerator](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/Agumentation_image.py)  : This code snippet demonstrates how to use TensorFlow's ImageDataGenerator to perform data augmentation and preprocessing for image datasets. It defines settings for generating augmented images for the training set and creates generators for the training, validation, and test sets. 
+
 ## Usage
 
 To use the scripts and tools provided in this repository, follow these steps:
 
 ## Clone the repository to your local machine:
 
-    git clone https://github.com/your-username/ML-data-checker-or-Modifier.git
+    git clone https://github.com/love-0710/ML-data-checker-or-Modifier.git
 
 ## Navigate to the repository directory:
 
