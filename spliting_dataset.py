@@ -19,7 +19,7 @@ os.makedirs(validation_dir, exist_ok=True)
 test_dir = os.path.join(base_dir, 'test')
 os.makedirs(test_dir, exist_ok=True)
 
-# List all classes of the dataset
+# List all classes of the dataset #modify it according to your classes and dataset
 class_folders = [
     'Eczema',
     'Melanoma',
