@@ -19,9 +19,9 @@ In the realm of machine learning, ensuring the quality and integrity of the data
 
 - [Convert Keras Model to TensorFlow Lite](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/convert_keras_model_to_tflite.py): Convert a pre-trained Keras model to TensorFlow Lite format, which is suitable for deployment on resource-constrained devices such as mobile phones, IoT devices, and edge devices.
 
--[TensorFlow Lite Inference](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/tflite_inference.py) : This code snippet demonstrates how to perform inference using a TensorFlow Lite model. 
+- [TensorFlow Lite Inference](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/tflite_inference.py) : This code snippet demonstrates how to perform inference using a TensorFlow Lite model. 
 
--[Resize Input Size of TensorFlow Model](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/changing_model_input_size.py) : This code snippet demonstrates how to resize the input size of a TensorFlow model. It loads a saved model, modifies the input layer to the desired input shape, and creates a new model with the updated input size. 
+- [Resize Input Size of TensorFlow Model](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/changing_model_input_size.py) : This code snippet demonstrates how to resize the input size of a TensorFlow model. It loads a saved model, modifies the input layer to the desired input shape, and creates a new model with the updated input size. 
 
 - [Checking the overall quality of saved model](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/checking_overall_quality_of_saved_model.py) : Script for checking the quality of the model.
 
