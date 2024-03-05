@@ -15,7 +15,7 @@ In the realm of machine learning, ensuring the quality and integrity of the data
 
 ## List of Code Files
 
-- [Checking dataset Cointain_ROI_or_not.py](Checking%20dataset%20Cointain_ROI_or_not.py): Script for checking if the dataset contains regions of interest (ROIs) or not.
+- [Checking dataset Cointain_ROI_or_not.ipynb](Checking%20dataset%20Cointain_ROI_or_not.ipynb): Script for checking if the dataset contains regions of interest (ROIs) or not.
 - [Checking the data is accessible or not.py](Checking%20the%20data%20is%20accessible%20or%20not.py): Script for verifying the accessibility of the data.
 
 
