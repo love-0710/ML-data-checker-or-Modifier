@@ -16,6 +16,9 @@ In the realm of machine learning, ensuring the quality and integrity of the data
 ## List of Code Files
 
 - [Checking dataset Cointain ROI or not](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/dataset_roi_check.ipynb) : Script for checking if the dataset contains regions of interest (ROIs) or not.
+
+- [Convert Keras Model to TensorFlow Lite](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/convert_keras_model_to_tflite.py): Convert a pre-trained Keras model to TensorFlow Lite format, which is suitable for deployment on resource-constrained devices such as mobile phones, IoT devices, and edge devices.
+
 - [Checking the data is accessible or not] Script for verifying the accessibility of the data.
 
 
